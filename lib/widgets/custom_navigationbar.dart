@@ -24,7 +24,7 @@ class CustomNavigationBar extends StatelessWidget {
           label: "Direcciones",
         ),
       ],
-      currentIndex: 0,
+      currentIndex: currentIndex,
       elevation: 0,
     );
   }
